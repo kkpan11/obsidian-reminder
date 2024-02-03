@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://uphy.github.io/obsidian-reminder/sitemap.xml
